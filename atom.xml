@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
-  <subtitle><![CDATA[hexo demo site]]></subtitle>
+  <title><![CDATA[Justin's Hexo]]></title>
+  <subtitle><![CDATA[life writing]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://reqianduan.com//"/>
-  <updated>2014-07-03T10:12:47.787Z</updated>
-  <id>http://reqianduan.com//</id>
+  <link href="http://justinquan.github.io//"/>
+  <updated>2014-07-03T10:18:35.821Z</updated>
+  <id>http://justinquan.github.io//</id>
   
   <author>
-    <name><![CDATA[xiangming]]></name>
+    <name><![CDATA[Justin]]></name>
     
   </author>
   
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://reqianduan.com/2014/07/03/hello-world/"/>
-    <id>http://reqianduan.com/2014/07/03/hello-world/</id>
+    <link href="http://justinquan.github.io/2014/07/03/hello-world/"/>
+    <id>http://justinquan.github.io/2014/07/03/hello-world/</id>
     <published>2014-07-03T10:09:46.000Z</published>
     <updated>2014-07-03T10:09:46.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -120,7 +120,7 @@
 ]]></content>
     
     
-      <category term="hexo" scheme="http://reqianduan.com/tags/hexo/"/>
+      <category term="hexo" scheme="http://justinquan.github.io/tags/hexo/"/>
     
   </entry>
   
